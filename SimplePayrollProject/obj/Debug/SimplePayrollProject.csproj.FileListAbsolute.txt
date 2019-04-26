@@ -1,0 +1,7 @@
+C:\Users\gr\source\repos\SimplePayrollProject\SimplePayrollProject\bin\Debug\SimplePayrollProject.exe.config
+C:\Users\gr\source\repos\SimplePayrollProject\SimplePayrollProject\bin\Debug\SimplePayrollProject.exe
+C:\Users\gr\source\repos\SimplePayrollProject\SimplePayrollProject\bin\Debug\SimplePayrollProject.pdb
+C:\Users\gr\source\repos\SimplePayrollProject\SimplePayrollProject\obj\Debug\SimplePayrollProject.csprojAssemblyReference.cache
+C:\Users\gr\source\repos\SimplePayrollProject\SimplePayrollProject\obj\Debug\SimplePayrollProject.csproj.CoreCompileInputs.cache
+C:\Users\gr\source\repos\SimplePayrollProject\SimplePayrollProject\obj\Debug\SimplePayrollProject.exe
+C:\Users\gr\source\repos\SimplePayrollProject\SimplePayrollProject\obj\Debug\SimplePayrollProject.pdb
